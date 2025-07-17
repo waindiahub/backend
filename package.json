@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-platform-backend",
+  "name": "whatsapp-platform-backends",
   "version": "1.0.0",
   "description": "WhatsApp Cloud API Management Platform Backend",
   "main": "dist/server.js",
